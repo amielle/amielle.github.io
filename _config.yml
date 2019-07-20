@@ -3,7 +3,7 @@ title: Hi! I'm Amielle.
 description: Personal/technical blog of Amielle Dulay.
 #permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "amielle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://amielle.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: # mountains.mp4 add banner video. Add your video file to the folder video
