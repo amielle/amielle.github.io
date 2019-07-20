@@ -1,0 +1,59 @@
+logo: # add logo name
+title: Hi! I'm Amielle.
+description: Personal/technical blog of Amielle Dulay.
+#permalink: ':title/'
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Banner settings
+video: # mountains.mp4 add banner video. Add your video file to the folder video
+banner-title: Welcome to my blog!<br/> I'm <a href="http://127.0.0.1:4000/blog/about">Amielle</a>. # add banner title
+banner-desc: machine learning, art, and other endeavors # add banner description
+
+# Author settings
+author-pic: face.jpg # your photo
+author-name: Amielle Dulay
+about-author: I'm an AI/ML enthusiast with an undergraduate degree in Computer Engineering.
+              In my free time, I like to learn by experimenting with code (using Python and occasionally C/C++). Specific things that currently pique my interest include NLP, finance, and privatized learning.
+              Reading fiction, playing games, and making art are things I also enjoy doing.
+              <br/><br/>
+              I believe that one can never stop learning, so this blog will contain tidbits of the things I learn along the way, fixes on the things I debug, and overall a progress of growth 
+              in terms of gaining knowledge and applying these concepts to (hopefully) help others as well.
+              # about author
+email: dulay.amielle@gmail.com # your email
+phone: (+63) 966 270 9161 # your pnone number
+website: https://amielle.github.io # you website
+
+# Social link
+google_url:    # add url link
+twitter_url:   # add url link
+instagram_url: # add url link
+pinterest_url: # add url link
+dribbble_url:  # add url link
+facebook_url:  # add url link
+
+# Disqus
+discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+
+# Newsletter
+mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Tracker
+analytics:
+
+# Paginate
+paginate: 3
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
