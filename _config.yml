@@ -7,7 +7,7 @@ url: "https://amielle.github.io/" # the base hostname & protocol for your site, 
 
 # Banner settings
 video: # mountains.mp4 add banner video. Add your video file to the folder video
-banner-title: Welcome to my blog!<br/> I'm <a href="http://127.0.0.1:4000/blog/about">Amielle</a>. # add banner title
+banner-title: Welcome to my blog!<br/> I'm <a href="/about">Amielle</a>. # add banner title
 banner-desc: machine learning, art, and other endeavors # add banner description
 
 # Author settings
