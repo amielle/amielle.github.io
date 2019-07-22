@@ -18,7 +18,8 @@ about-author: I'm an AI/ML enthusiast with an undergraduate degree in Computer E
               Reading fiction, playing games, and making art are things I also enjoy doing.
               <br/><br/>
               I believe that one can never stop learning, so this blog will contain tidbits of the things I learn along the way, fixes on the things I debug, and overall a progress of growth 
-              in terms of gaining knowledge and applying these concepts to (hopefully) help others as well.
+              in terms of gaining knowledge and applying these concepts to (hopefully) help others as well.<br/><br/>
+              This site was built on Jekyll and is a modified version of the theme [Bef - Blog Enjoy Freedom](https://github.com/artemsheludko/bef) by [Artem Sheludko](https://github.com/artemsheludko).
               # about author
 email: dulay.amielle@gmail.com # your email
 phone: (+63) 966 270 9161 # your pnone number
